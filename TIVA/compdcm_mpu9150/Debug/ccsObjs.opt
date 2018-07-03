@@ -1,0 +1,1 @@
+"./compdcm_mpu9150.obj" "./startup_ccs.obj" "./drivers/rgb.obj" "./utils/uartstdio.obj" "../compdcm_mpu9150_ccs.cmd" -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib" -l"C:/ti/TivaWare_C_Series-2.1.4.178/sensorlib/ccs/Debug/sensorlib.lib" 
